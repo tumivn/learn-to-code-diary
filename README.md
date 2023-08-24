@@ -1,4 +1,4 @@
-# 999 Days learning coding diary
+# Learning coding diary
 
 ![Dung](./assests/dung.png)
 
