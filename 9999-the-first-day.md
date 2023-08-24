@@ -17,7 +17,7 @@ I am preparing the courses as well as book for learning. Plan is simple
 
 It will take me more than 1000 days to finish all the learning, however, everything start with small steps. Let get started.
 
-The first book to read is the `Spring In Action 6th edition" written by Craig Wall. 
+The first book to read is the `Spring In Action 6th edition" written by Craig Wall`. 
 The first course to learn is the `Building Your First App with Spring Boot 2 and Angular 5` on PluralSight.
 
 I must say I'm not a new bie in programming, so I'm familiar with Spring Boot, threading programming, have idea of reactive programming, know a little bit of Spring MVC, know RESTful in depth and know how to write unit test properly. I'm also familiar with Docker and have some fundamental learning with K8S. Have minimum skill of Bash Script. 
